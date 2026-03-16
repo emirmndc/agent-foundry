@@ -13,7 +13,7 @@ A modular AI agent factory for launching niche research, monitoring, and signal 
 
 ## Tech Stack
 
-- [Next.js 14](https://nextjs.org/) with App Router
+- [Next.js 15](https://nextjs.org/) with App Router
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
